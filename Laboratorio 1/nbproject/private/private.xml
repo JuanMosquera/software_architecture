@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/W/Downloads/Arq.%20software/Github/software_architecture/Laboratorio%201/web/registroClientes.jsp</file>
+            <file>file:/C:/Users/W/Downloads/Arq.%20software/Github/software_architecture/Laboratorio%201/src/java/com/ejb/AdministradorFacade.java</file>
+            <file>file:/C:/Users/W/Downloads/Arq.%20software/Github/software_architecture/Laboratorio%201/src/java/com/modelo/Cliente.java</file>
+            <file>file:/C:/Users/W/Downloads/Arq.%20software/Github/software_architecture/Laboratorio%201/src/java/com/ejb/AbstractFacade.java</file>
+            <file>file:/C:/Users/W/Downloads/Arq.%20software/Github/software_architecture/Laboratorio%201/web/listaClientes.jsp</file>
+            <file>file:/C:/Users/W/Downloads/Arq.%20software/Github/software_architecture/Laboratorio%201/web/manager.jsp</file>
+            <file>file:/C:/Users/W/Downloads/Arq.%20software/Github/software_architecture/Laboratorio%201/web/vehiculos.jsp</file>
+            <file>file:/C:/Users/W/Downloads/Arq.%20software/Github/software_architecture/Laboratorio%201/src/java/com/modelo/Vehiculo.java</file>
+            <file>file:/C:/Users/W/Downloads/Arq.%20software/Github/software_architecture/Laboratorio%201/web/WEB-INF/glassfish-web.xml</file>
+            <file>file:/C:/Users/W/Downloads/Arq.%20software/Github/software_architecture/Laboratorio%201/web/menu.jsp</file>
+            <file>file:/C:/Users/W/Downloads/Arq.%20software/Github/software_architecture/Laboratorio%201/src/conf/MANIFEST.MF</file>
+            <file>file:/C:/Users/W/Downloads/Arq.%20software/Github/software_architecture/Laboratorio%201/src/java/com/ejb/VehiculoFacadeLocal.java</file>
+            <file>file:/C:/Users/W/Downloads/Arq.%20software/Github/software_architecture/Laboratorio%201/web/listaVehiculos.jsp</file>
+            <file>file:/C:/Users/W/Downloads/Arq.%20software/Github/software_architecture/Laboratorio%201/src/java/com/modelo/Administrador.java</file>
+            <file>file:/C:/Users/W/Downloads/Arq.%20software/Github/software_architecture/Laboratorio%201/web/index.jsp</file>
+            <file>file:/C:/Users/W/Downloads/Arq.%20software/Github/software_architecture/Laboratorio%201/src/java/com/ejb/VentaFacade.java</file>
+            <file>file:/C:/Users/W/Downloads/Arq.%20software/Github/software_architecture/Laboratorio%201/src/java/com/ejb/VentaFacadeLocal.java</file>
+            <file>file:/C:/Users/W/Downloads/Arq.%20software/Github/software_architecture/Laboratorio%201/web/clientes.jsp</file>
+            <file>file:/C:/Users/W/Downloads/Arq.%20software/Github/software_architecture/Laboratorio%201/web/login.jsp</file>
+            <file>file:/C:/Users/W/Downloads/Arq.%20software/Github/software_architecture/Laboratorio%201/web/ventas.jsp</file>
+            <file>file:/C:/Users/W/Downloads/Arq.%20software/Github/software_architecture/Laboratorio%201/src/java/com/ejb/AdministradorFacadeLocal.java</file>
+            <file>file:/C:/Users/W/Downloads/Arq.%20software/Github/software_architecture/Laboratorio%201/web/registroAdministradores.jsp</file>
+            <file>file:/C:/Users/W/Downloads/Arq.%20software/Github/software_architecture/Laboratorio%201/src/java/com/servlet/Servlet.java</file>
+            <file>file:/C:/Users/W/Downloads/Arq.%20software/Github/software_architecture/Laboratorio%201/src/conf/persistence.xml</file>
+            <file>file:/C:/Users/W/Downloads/Arq.%20software/Github/software_architecture/Laboratorio%201/src/java/com/ejb/VehiculoFacade.java</file>
+            <file>file:/C:/Users/W/Downloads/Arq.%20software/Github/software_architecture/Laboratorio%201/web/WEB-INF/glassfish-resources.xml</file>
+            <file>file:/C:/Users/W/Downloads/Arq.%20software/Github/software_architecture/Laboratorio%201/web/agregarVehiculo.jsp</file>
+            <file>file:/C:/Users/W/Downloads/Arq.%20software/Github/software_architecture/Laboratorio%201/src/java/com/ejb/ClienteFacadeLocal.java</file>
+            <file>file:/C:/Users/W/Downloads/Arq.%20software/Github/software_architecture/Laboratorio%201/src/java/com/ejb/ClienteFacade.java</file>
+            <file>file:/C:/Users/W/Downloads/Arq.%20software/Github/software_architecture/Laboratorio%201/src/java/com/modelo/Venta.java</file>
+        </group>
+    </open-files>
+</project-private>
